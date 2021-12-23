@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy_MarkupCompile.cache
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy_MarkupCompile.lref
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\bin\Debug\WIMDeploy.exe.config
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\bin\Debug\WIMDeploy.exe
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\bin\Debug\WIMDeploy.pdb
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.g.resources
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.Properties.Resources.resources
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.exe
+C:\Users\User\source\repos\WIMDeploy\WIMDeploy\obj\Debug\WIMDeploy.pdb
